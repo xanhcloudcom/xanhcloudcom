@@ -1,16 +1,13 @@
-## Hi there 👋
+## XanhCloud.com
 
-<!--
-**xanhcloudcom/xanhcloudcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mua VPS Windows, thuê Cloud VPS, GPU VPS, máy chủ tốc độ cao, mua proxy nhanh và tiện lợi. Dịch vụ VPS Việt Nam, VPS US, VPS Châu Âu, VPS Nhật Bản nhanh và mạnh mẽ.
 
-Here are some ideas to get you started:
+- Địa chỉ: N01T3, KĐT Ngoại Giao Đoàn, Xuân Tảo, Bắc Từ Liêm, Hà Nội
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+https://xanhcloud.com/
+
+https://www.pinterest.com/xanhcloud1/
+
+https://vimeo.com/xanhcloudcom
+
+https://www.youtube.com/channel/UCk7DAhbhYDfytBefiof6jXQ
